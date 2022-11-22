@@ -55,7 +55,7 @@ div {position:relative;}
 div:after {content:''; clear:both; display:block; height:auto; overflow:hidden;}
 
 .wrap {max-width:720px; margin:0 auto;}
-.mSec {height:70vh;}
+.mSec {height:80vh;}
 .mSec .mCon {height:100vh; display:flex; justify-content:center; align-items:center;}
 .mSec .mCon.beforeCon {background:rgba(255, 255, 255, 0.8); color:#000; font-size:16px; font-weight:500;}
 .fixFunc {position:fixed; left:0; bottom:20px; width:100%; padding:0 20px; z-index:10; box-sizing:border-box;}
